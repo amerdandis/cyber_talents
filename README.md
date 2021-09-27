@@ -1,7 +1,7 @@
 # cyber_talents
 cyber talents forensics writeups
 
-| First Header  | Second Header |
+| Challenge name  | Challenge description |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
